@@ -1,0 +1,14 @@
+C:\Users\alexk\source\repos\DownloadYahooFinanceData\DownloadYahooFinanceData\bin\Debug\DownloadYahooFinanceData.exe.config
+C:\Users\alexk\source\repos\DownloadYahooFinanceData\DownloadYahooFinanceData\bin\Debug\DownloadYahooFinanceData.exe
+C:\Users\alexk\source\repos\DownloadYahooFinanceData\DownloadYahooFinanceData\bin\Debug\DownloadYahooFinanceData.pdb
+C:\Users\alexk\source\repos\DownloadYahooFinanceData\DownloadYahooFinanceData\obj\Debug\DownloadYahooFinanceData.csprojAssemblyReference.cache
+C:\Users\alexk\source\repos\DownloadYahooFinanceData\DownloadYahooFinanceData\obj\Debug\DownloadYahooFinanceData.csproj.CoreCompileInputs.cache
+C:\Users\alexk\source\repos\DownloadYahooFinanceData\DownloadYahooFinanceData\obj\Debug\DownloadYahooFinanceData.exe
+C:\Users\alexk\source\repos\DownloadYahooFinanceData\DownloadYahooFinanceData\obj\Debug\DownloadYahooFinanceData.pdb
+C:\Users\Alex Kupin\Desktop\DownloadYahooFinanceData\DownloadYahooFinanceData\bin\Debug\DownloadYahooFinanceData.exe.config
+C:\Users\Alex Kupin\Desktop\DownloadYahooFinanceData\DownloadYahooFinanceData\bin\Debug\DownloadYahooFinanceData.exe
+C:\Users\Alex Kupin\Desktop\DownloadYahooFinanceData\DownloadYahooFinanceData\bin\Debug\DownloadYahooFinanceData.pdb
+C:\Users\Alex Kupin\Desktop\DownloadYahooFinanceData\DownloadYahooFinanceData\obj\Debug\DownloadYahooFinanceData.csproj.CoreCompileInputs.cache
+C:\Users\Alex Kupin\Desktop\DownloadYahooFinanceData\DownloadYahooFinanceData\obj\Debug\DownloadYahooFinanceData.exe
+C:\Users\Alex Kupin\Desktop\DownloadYahooFinanceData\DownloadYahooFinanceData\obj\Debug\DownloadYahooFinanceData.pdb
+C:\Users\Alex Kupin\Desktop\DownloadYahooFinanceData\DownloadYahooFinanceData\obj\Debug\DownloadYahooFinanceData.csprojAssemblyReference.cache
